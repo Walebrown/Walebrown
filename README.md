@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Adewale Akangbe. I'm a FrontEnd Engineer 
-- 👀 I’m interested in FrontEnd development, blockchain  and web 3.0
-- 🌱 I’m currently learning react native, solidity and improving my Reactjs skillset
+- 👋 Hi, I’m Adewale Akangbe. I'm a Data Scientist 
 - 💞️ I’m looking to collaborate on projects, contributions, discussion, learnings 
 - 📫 How to reach me adewaleakangbe14@gmail.com
 
